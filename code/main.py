@@ -1,7 +1,7 @@
 # Main file
 
 # Local imports
-from operations import Operations
+from code.operations import Operations
 
 
 def performComputation(operation:str, num1:float, num2:float) -> float:

@@ -33,4 +33,3 @@ class Operations:
         Perform division operation
         """
         return self.num1 / self.num2
-    

@@ -3,7 +3,6 @@
 
 
 ![GitHub](https://img.shields.io/github/license/agupta15k/ncsu_se_fall22_22?color=green&label=license&logo=MIT)
-
 ![Github](https://img.shields.io/badge/language-python-red.svg)
 ![GitHub issues](https://img.shields.io/github/issues-raw/agupta15k/ncsu_se_fall22_22)
 ![Github closed issues](https://img.shields.io/github/issues-closed-raw/agupta15k/ncsu_se_fall22_22)
@@ -21,7 +20,7 @@ With all the day-to-day expenses you would always like to have a summation tool 
 
 - ## Built on
 
-  <img src="https://https://camo.githubusercontent.com/dd8b0601cdfefe534a6a26f4c29c7f8a5fcfc315002655f519c73121f7bad8bc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" />
 
 - **Language used:** Python
 - **Libraries used:** io, pytest
@@ -45,13 +44,11 @@ With all the day-to-day expenses you would always like to have a summation tool 
   
      - Run:
      
-        `python src/plotting/index.py`
+        `python index.py`
 
 
      ## Roadmap
        - [List of Roadmap and their corresponding open issues](https://github.com/agupta15k/ncsu_se_fall22_22/issues/)
-
-## Contributors
 
 ## Contributors ✨
 
@@ -74,12 +71,3 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-[Nagaraj Madamshetti](https://github.com/nagarajumadamshetti)
-
-[Akash Gupta](https://github.com/agupta15k)
-
-[Sumit Singh](https://github.com/sumitsinghhazard)
-
-[Nitesh Mishra](https://github.com/)
-
-[Arun](https://github.com/)

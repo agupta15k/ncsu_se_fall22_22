@@ -18,7 +18,7 @@ With all the day-to-day expenses you would always like to have a summation tool 
 
 `Calculator` is a command line tool that helps you to do arithematic operations on your day to day expenses and helps you be on track.
 
-- ## Built on
+- **Built on**
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" />
 
@@ -50,9 +50,35 @@ With all the day-to-day expenses you would always like to have a summation tool 
 
       `python -m pytest`
 
+## Directory structure
 
-    ## Roadmap
-      - [List of Roadmap and their corresponding open issues](https://github.com/agupta15k/ncsu_se_fall22_22/issues/)
+    .
+    ├── .github
+    │   ├── workflows          
+    │   │   ├── python-app.yml          # Workflow for git actions
+    ├── Docs
+    │   ├── TestFile.md                 # Test file
+    ├── src
+    │   ├── __init__.py                 # Init file for src directory
+    │   ├── main.py                     # Main file for src directory
+    │   ├── operations.py               # Util file for calculator operations
+    ├── tst
+    │   ├── README.md                   # Readme file for unit tests
+    │   ├── __init__.py                 # Init file for tst directory
+    │   ├── test_main.py                # Tests file for src/main.py
+    │   ├── test_operations.py          # Tests file for src/operations.py
+    ├── .all-contributorsrc             # File for all-contributor bot
+    ├── .gitattributes                  # File for git attributes
+    ├── .gitignore                      # File for git ignore
+    ├── CODE_OF_CONDUCT.md              # Code of conduct for repository
+    ├── CONTRIBUTING.md                 # Details about contributing to the repository
+    ├── LICENSE.md                      # MIT License details
+    ├── README.md                       # Readme file for repository
+    ├── requirements.txt                # Details of dependency packages
+    └── setup.py                        # Setup file for the module
+
+## Roadmap
+  - [List of Roadmap and their corresponding open issues](https://github.com/agupta15k/ncsu_se_fall22_22/issues/)
 
 ## Contributors ✨
 

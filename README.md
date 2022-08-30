@@ -1,8 +1,54 @@
-# ncsu_se_fall22_22
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-Repository of group 22 for NCSU Software Engineering Fall 2022
+# Calculator  
+**A Python Library for your everyday calculations** 
+
+
+![GitHub](https://img.shields.io/github/license/agupta15k/ncsu_se_fall22_22?color=green&label=license&logo=MIT)
+![Github](https://img.shields.io/badge/language-python-red.svg)
+![GitHub issues](https://img.shields.io/github/issues-raw/agupta15k/ncsu_se_fall22_22)
+![Github closed issues](https://img.shields.io/github/issues-closed-raw/agupta15k/ncsu_se_fall22_22)
+![Github pull requests](https://img.shields.io/github/issues-pr/agupta15k/ncsu_se_fall22_22?color=red)
+![Github closed pull requests](https://img.shields.io/github/issues-pr-closed/agupta15k/ncsu_se_fall22_22?color=blue)
+![Github all contributors](https://img.shields.io/github/contributors/agupta15k/ncsu_se_fall22_22?color=green)
+
+## Why Calculator?
+
+With all the day-to-day expenses you would always like to have a summation tool to reduce un-necessary expenses and be updated with the amount spent.
+
+`"Money often costs too much"` - Ralph Waldo Emerson
+
+`Calculator` is a command line tool that helps you to do arithematic operations on your day to day expenses and helps you be on track.
+
+- ## Built on
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" />
+
+- **Language used:** Python
+- **Libraries used:** io, pytest
+
+## Getting started:
+
+  - ### Prerequisite:
+      - Download [Python3.x](https://www.python.org/downloads/).
+
+   - ### Installation:
+    
+     - Install all the requirements:
+
+        `pip install -r requirements.txt`
+
+  - ### Run Instructions
+
+     - Clone [this (Calculator) github repo](https://github.com/agupta15k/ncsu_se_fall22_22).
+
+     - Navigate to the project root directory
+  
+     - Run:
+     
+        `python index.py`
+
+
+     ## Roadmap
+       - [List of Roadmap and their corresponding open issues](https://github.com/agupta15k/ncsu_se_fall22_22/issues/)
 
 ## Contributors ✨
 
@@ -24,3 +70,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+

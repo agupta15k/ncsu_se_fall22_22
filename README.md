@@ -23,32 +23,36 @@ With all the day-to-day expenses you would always like to have a summation tool 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" />
 
 - **Language used:** Python
-- **Libraries used:** io, pytest
+- **Libraries used:** pytest
 
 ## Getting started:
 
   - ### Prerequisite:
-      - Download [Python3.x](https://www.python.org/downloads/).
+    - Download [Python3](https://www.python.org/downloads/).
 
-   - ### Installation:
+  - ### Installation:
     
-     - Install all the requirements:
+    - Install all the requirements:
 
-        `pip install -r requirements.txt`
+      `pip install -r requirements.txt`
 
   - ### Run Instructions
 
-     - Clone [this (Calculator) github repo](https://github.com/agupta15k/ncsu_se_fall22_22).
+    - Clone [this (Calculator) github repo](https://github.com/agupta15k/ncsu_se_fall22_22).
 
-     - Navigate to the project root directory
+    - Navigate to the project root directory
   
-     - Run:
-     
-        `python index.py`
+    - Run:
+
+      `python -m src.main`
+    
+    - Test:
+
+      `python -m pytest`
 
 
-     ## Roadmap
-       - [List of Roadmap and their corresponding open issues](https://github.com/agupta15k/ncsu_se_fall22_22/issues/)
+    ## Roadmap
+      - [List of Roadmap and their corresponding open issues](https://github.com/agupta15k/ncsu_se_fall22_22/issues/)
 
 ## Contributors ✨
 

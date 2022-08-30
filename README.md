@@ -1,3 +1,58 @@
+# Calculator  
+**A Python Library for your everyday calculations** 
+
+
+![GitHub](https://img.shields.io/github/license/agupta15k/ncsu_se_fall22_22?color=green&label=license&logo=MIT)
+
+![Github](https://img.shields.io/badge/language-python-red.svg)
+![GitHub issues](https://img.shields.io/github/issues-raw/agupta15k/ncsu_se_fall22_22)
+![Github closed issues](https://img.shields.io/github/issues-closed-raw/agupta15k/ncsu_se_fall22_22)
+![Github pull requests](https://img.shields.io/github/issues-pr/agupta15k/ncsu_se_fall22_22?color=red)
+![Github closed pull requests](https://img.shields.io/github/issues-pr-closed/agupta15k/ncsu_se_fall22_22?color=blue)
+![Github all contributors](https://img.shields.io/github/contributors/agupta15k/ncsu_se_fall22_22?color=green)
+
+## Why Calculator?
+
+With all the day-to-day expenses you would always like to have a summation tool to reduce un-necessary expenses and be updated with the amount spent.
+
+`"Money often costs too much"` - Ralph Waldo Emerson
+
+`Calculator` is a command line tool that helps you to do arithematic operations on your day to day expenses and helps you be on track.
+
+- ## Built on
+
+  <img src="https://https://camo.githubusercontent.com/dd8b0601cdfefe534a6a26f4c29c7f8a5fcfc315002655f519c73121f7bad8bc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" width="40" height="40" />
+
+- **Language used:** Python
+- **Libraries used:** io, pytest
+
+## Getting started:
+
+  - ### Prerequisite:
+      - Download [Python3.x](https://www.python.org/downloads/).
+
+   - ### Installation:
+    
+     - Install all the requirements:
+
+        `pip install -r requirements.txt`
+
+  - ### Run Instructions
+
+     - Clone [this (Calculator) github repo](https://github.com/agupta15k/ncsu_se_fall22_22).
+
+     - Navigate to the project root directory
+  
+     - Run:
+     
+        `python src/plotting/index.py`
+
+
+     ## Roadmap
+       - [List of Roadmap and their corresponding open issues](https://github.com/agupta15k/ncsu_se_fall22_22/issues/)
+
+## Contributors
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -18,3 +73,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+[Nagaraj Madamshetti](https://github.com/nagarajumadamshetti)
+
+[Akash Gupta](https://github.com/agupta15k)
+
+[Sumit Singh](https://github.com/sumitsinghhazard)
+
+[Nitesh Mishra](https://github.com/)
+
+[Arun](https://github.com/)

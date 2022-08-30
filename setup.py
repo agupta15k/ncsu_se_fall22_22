@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'se_home_work_1'
+NAME = 'NCSU_SE_FALL22_22'
 DESCRIPTION = 'This is a home work 1 project for SE Fall \'22 group 22'
 URL = ''
 EMAIL = 'dummy@dummy.com'
@@ -11,7 +11,7 @@ REQUIRES_PYTHON = '>=3'
 
 # required packages for this project to be execute appropriately
 REQUIRED = [
-    'io', 'pytest'
+    'pytest'
 ]
 
 # optional packages for this project

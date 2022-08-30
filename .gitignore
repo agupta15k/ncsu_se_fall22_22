@@ -1,3 +1,7 @@
 config.json
-dist/se_home_work_1-0.1-py3.10.egg
-se_home_work_1.egg-info/*
+dist/
+se_home_work_1.egg-info/
+NCSU_SE_FALL22_22.egg-info/
+__pycache__/
+build/
+.pytest_cache/

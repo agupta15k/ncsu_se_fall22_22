@@ -7,7 +7,6 @@ Please do take a look at our [Code of Conduct](#code-of-conduct).
 
 
 ## Code of Conduct
-*------- means Will be completed once code of conduct is committed.*
 
 This project and everyone participating in it is governed by the --------. By participating, you are expected to uphold this code. Please report unacceptable behavior to --------
 

@@ -1,0 +1,37 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "nagarajumadamshetti",
+      "name": "nagarajumadamshetti",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42158715?v=4",
+      "profile": "https://github.com/nagarajumadamshetti",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    },
+    {
+      "login": "agupta15k",
+      "name": "Akash Gupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112216701?v=4",
+      "profile": "https://github.com/agupta15k",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "ncsu_se_fall22_22",
+  "projectOwner": "agupta15k",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

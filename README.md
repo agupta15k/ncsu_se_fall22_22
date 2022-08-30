@@ -2,13 +2,13 @@
 **A Python Library for your everyday calculations** 
 
 
-![GitHub](https://img.shields.io/github/license/agupta15k/ncsu_se_fall22_22?color=green&label=license&logo=MIT)
-![Github](https://img.shields.io/badge/language-python-red.svg)
-![GitHub issues](https://img.shields.io/github/issues-raw/agupta15k/ncsu_se_fall22_22)
-![Github closed issues](https://img.shields.io/github/issues-closed-raw/agupta15k/ncsu_se_fall22_22)
-![Github pull requests](https://img.shields.io/github/issues-pr/agupta15k/ncsu_se_fall22_22?color=red)
-![Github closed pull requests](https://img.shields.io/github/issues-pr-closed/agupta15k/ncsu_se_fall22_22?color=blue)
-![Github all contributors](https://img.shields.io/github/contributors/agupta15k/ncsu_se_fall22_22?color=green)
+[![GitHub](https://img.shields.io/github/license/agupta15k/ncsu_se_fall22_22?color=green&label=license&logo=MIT)](https://github.com/agupta15k/ncsu_se_fall22_22/blob/main/LICENSE.md)
+[![Github](https://img.shields.io/badge/language-python-red.svg)](https://www.python.org/downloads/)
+[![GitHub issues](https://img.shields.io/github/issues-raw/agupta15k/ncsu_se_fall22_22)](https://github.com/agupta15k/ncsu_se_fall22_22/issues)
+[![Github closed issues](https://img.shields.io/github/issues-closed-raw/agupta15k/ncsu_se_fall22_22)](https://github.com/agupta15k/ncsu_se_fall22_22/issues?q=is%3Aissue+is%3Aclosed)
+[![Github pull requests](https://img.shields.io/github/issues-pr/agupta15k/ncsu_se_fall22_22?color=red)](https://github.com/agupta15k/ncsu_se_fall22_22/pulls)
+[![Github closed pull requests](https://img.shields.io/github/issues-pr-closed/agupta15k/ncsu_se_fall22_22?color=blue)](https://github.com/agupta15k/ncsu_se_fall22_22/pulls?q=is%3Apr+is%3Aclosed)
+[![Github all contributors](https://img.shields.io/github/contributors/agupta15k/ncsu_se_fall22_22?color=green)](https://github.com/agupta15k/ncsu_se_fall22_22/graphs/contributors)
 
 ## Why Calculator?
 

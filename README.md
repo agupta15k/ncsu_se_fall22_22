@@ -58,6 +58,8 @@ With all the day-to-day expenses you would always like to have a summation tool 
     │   │   ├── python-app.yml          # Workflow for git actions
     ├── Docs
     │   ├── TestFile.md                 # Test file
+    ├── data
+    │   ├── README.md                   # Readme file for data folder
     ├── src
     │   ├── __init__.py                 # Init file for src directory
     │   ├── main.py                     # Main file for src directory
@@ -72,6 +74,7 @@ With all the day-to-day expenses you would always like to have a summation tool 
     ├── .gitignore                      # File for git ignore
     ├── CODE_OF_CONDUCT.md              # Code of conduct for repository
     ├── CONTRIBUTING.md                 # Details about contributing to the repository
+    ├── INSTALL.md                      # Dependencies installation details
     ├── LICENSE.md                      # MIT License details
     ├── README.md                       # Readme file for repository
     ├── requirements.txt                # Details of dependency packages
